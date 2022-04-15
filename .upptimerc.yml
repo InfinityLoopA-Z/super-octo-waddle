@@ -7,8 +7,3 @@ sites:
     url: https://www.bigbox.com.ar
   - name: Biglife Argentina
     url: https://www.premios.bigbox.com.ar
-
-
-status-website:
-  baseUrl: /super-octo-waddle
-  name: https://infinityloopa-z.github.io/super-octo-waddle/
