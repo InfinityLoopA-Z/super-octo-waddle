@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.bigbox.com.ar",
     "slug": "bigbox-argentina",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "92.78%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.91%",
-    "time": 313,
-    "timeDay": 380,
-    "timeWeek": 310,
-    "timeMonth": 298,
-    "timeYear": 313,
+    "uptimeYear": "99.92%",
+    "time": 312,
+    "timeDay": 216,
+    "timeWeek": 304,
+    "timeMonth": 296,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2022-07-08": 104
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 208,
-    "timeWeek": 291,
-    "timeMonth": 302,
-    "timeYear": 337,
+    "time": 342,
+    "timeDay": 225,
+    "timeWeek": 353,
+    "timeMonth": 315,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
